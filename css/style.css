@@ -162,4 +162,18 @@ img {
     h2{
         margin-bottom: 0;
     }
+
+    .steps{
+        margin-bottom: 0;
+    }
+
+    .why-us{
+        background-color: rgba(34, 34, 34, 1);  
+        padding: 3rem 0;
+        margin-bottom: 0;
+    }
+    
+    .site-header, .lessons{
+        background-color: #232946;
+    }
  }
